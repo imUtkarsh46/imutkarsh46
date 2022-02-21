@@ -7,6 +7,6 @@
 
 - 📫 How to reach me: 
 Email : chalseyutkarsh@gmail.com
-Instragram : @imutkarsh046
+Instragram : https://www.instagram.com/imutkarsh046/
 
 -->
