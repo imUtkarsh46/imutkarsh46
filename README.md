@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Science, Tableau, Python, Machine Learning**
 
-- 📫 How to reach me **chalseyutkarsh@gmal.com**
+- 📫 How to reach me **chalseyutkarsh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
