@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imutkarsh46&label=Profile%20views&color=0e75b6&style=flat" alt="imutkarsh46" /> </p>
 
-- 🔭 I’m currently working on **Email Spam Detection**
+- 🔭 I’m currently working on **Object Detection**
 
-- 🌱 I’m currently learning **Data Science, Data Analyst, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Data Science, Data Analyst, Machine Learning, Deep Learning, AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imUtkarsh46](https://github.com/imUtkarsh46)
 
