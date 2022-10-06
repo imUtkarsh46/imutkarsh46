@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imutkarsh46&label=Profile%20views&color=0e75b6&style=flat" alt="imutkarsh46" /> </p>
 
-- 🔭 I’m currently working on **Object Detection**
+- 🔭 I’m currently working on **Deep Learning, and AI**
 
 - 🌱 I’m currently learning **Data Science, Data Analyst, Machine Learning, Deep Learning, AI**
 
